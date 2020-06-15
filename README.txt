@@ -1,7 +1,7 @@
 # very important information
 File "комп_V5.circ" - is  the main project file, it contains scheems of a computer (was used vanila logisim)
 
-Libries "file_name.jar" - contains additional blocks for logisim-win-2.7.1, if you have problems with loading it - open комп_V5.circ with notepad - there are all names of main classes (copy it and paste it, to the special logisim window, that requires from you a name of a class), later I will write all names of main classes...
+Libraries "file_name.jar" - contains additional blocks for logisim-win-2.7.1, if you have problems with loading it - open комп_V5.circ with notepad - there are all names of main classes (copy it and paste it, to the special logisim window, that requires from you a name of a class), later I will write all names of main classes...
 
 Before using these files please watch my videos about them!
 Link for my videos about logisim: https://www.youtube.com/playlist?list=PLjB-AbJkJAixhLuKA6f8udJEAkhCCE1mH
