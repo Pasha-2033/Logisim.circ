@@ -1,7 +1,19 @@
 # very important information
 File "комп_V5.circ" - is  the main project file, it contains scheems of a computer (was used vanila logisim)
 
-Libraries "file_name.jar" - contains additional blocks for logisim-win-2.7.1, if you have problems with loading it - open комп_V5.circ with notepad - there are all names of main classes (copy it and paste it, to the special logisim window, that requires from you a name of a class), later I will write all names of main classes...
+Libraries "file_name.jar" - contains additional blocks for logisim-win-2.7.1 (ATTENTION! ONLY FOR VANILA LOGISIM! YOU CAN TRY IT FOR LOGISIM EVOLUTION, BUT SIMILATION MAY BE CRASHED!)
+If you have problems with loading it - open комп_V5.circ with notepad, there are all names of main classes or choose right name from the list below:
+
+IEEE754.jar - com.cheese.IEEE754.IEEE754
+Buzzer.jar -immibis.buzzer.Library
+cs3410for271.jar - edu.cornell.cs3410.Components
+kahgeg.jar - kahdeg.test.library
+logisim_xtended - net.net16.jeremiahlowe.logisim.logisim_xtended.Componen
+midi.jar - kahdeg.test.library
+midikeyboard.jar - com.mcsoftware.logisim.mykeyboardlib.MyKeyboardLib
+EvolutionComp.jar - com.mcsoftware.logisim.evolutioncomp.EvolutionComp
+
+(copy it and paste it, to the special logisim window, that requires from you a name of a class), later I will write all names of main classes...
 
 Before using these files please watch my videos about them!
 Link for my videos about logisim: https://www.youtube.com/playlist?list=PLjB-AbJkJAixhLuKA6f8udJEAkhCCE1mH
