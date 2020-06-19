@@ -2,6 +2,8 @@
 The file "комп_V5.circ" - is the main project file, it contains schemes of a computer (vanila logisim was used).
 The files "prototype of 'name'.circ" - are prototypes of schemes, that could be used in the main project. They don't depend on the main project file.
 
+The main file is very heavy for logisim, it can take nearly one minute to upload this file!
+
 The libraries "file_name.jar" - contains additional blocks for logisim-win-2.7.1.
 (ATTENTION! ONLY FOR VANILA LOGISIM! YOU CAN TRY IT FOR LOGISIM EVOLUTION, BUT SIMULATION MAY BE CRASHED/STOPED!)
 If you have problems with loading it - open комп_V5.circ with the help of notepad, the text there contains everything you need; or choose the right name from the list below:
